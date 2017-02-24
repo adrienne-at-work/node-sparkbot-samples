@@ -8,7 +8,7 @@ If you feel inspired, follow the guides to run your own version of these bots: [
 
 Or pick a [template](templates/) that suits your scenario, and customize it.
 
-Note that these bot samples code leverage the [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) Bot framework.
+Note that these bot sample code leverage the [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) Bot framework.
 
 __and if you're new to Cisco Spark Apps, note that DevNet provides 10 to 20' [Learning labs](https://learninglabs.cisco.com/labs).__
 
@@ -63,7 +63,7 @@ Features illustrated by this example:
 - **Runs with a Developer account**
 - Uses "node-sparky" library to wrap calls to the Cisco Spark REST API
 
-Note that this webhook must be run with a Developer access token (either your's or a fake Spark account), because we must fetch all messages from rooms, not only those where bot is mentionned.
+Note that this webhook must be run with a Developer access token (either yours or a fake Spark account) because we must fetch all messages from rooms, not only those where bot is mentionned.
 
 Invite _stats@chatbot.land_ to meet the bot.
 
